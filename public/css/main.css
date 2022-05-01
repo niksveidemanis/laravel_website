@@ -1,0 +1,14 @@
+body{
+    background:#F5F5F5 !important;
+}
+.ck-editor__editable_inline {
+    min-height: 150px;
+    resize: vertical;
+}
+small{
+    vertical-align: text-bottom;
+}
+.haha{
+    text-align: center; 
+    vertical-align: middle;
+}
